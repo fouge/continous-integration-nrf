@@ -5155,8 +5155,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
  .debug_line    0x0000000000000000       0xd1 _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
- .debug_str     0x0000000000000000     0xbb3c _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
+ .debug_str     0x0000000000000000     0xbb0e _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/micro_ecc_backend_ecc.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
@@ -5174,8 +5174,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
  .debug_line    0x0000000000000000       0xd2 _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
- .debug_str     0x0000000000000000     0xbb3d _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
+ .debug_str     0x0000000000000000     0xbb0f _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/micro_ecc_backend_ecdh.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
@@ -5193,8 +5193,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
  .debug_line    0x0000000000000000       0xd3 _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
- .debug_str     0x0000000000000000     0xbb3e _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
+ .debug_str     0x0000000000000000     0xbb10 _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/micro_ecc_backend_ecdsa.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/boards.c.o
@@ -14092,8 +14092,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0xaae _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
  .debug_line    0x0000000000000000       0x7a _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
- .debug_str     0x0000000000000000     0xb63f _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
+ .debug_str     0x0000000000000000     0xb611 _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/SEGGER_RTT_Syscalls_GCC.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/SEGGER_RTT_printf.c.o
@@ -14332,8 +14332,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/oberon_backend_ecc.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/oberon_backend_ecc.c.o
  .debug_line    0x0000000000000000       0xcb _build/nrf52840_xxaa/oberon_backend_ecc.c.o
- .debug_str     0x0000000000000000     0xbb36 _build/nrf52840_xxaa/oberon_backend_ecc.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/oberon_backend_ecc.c.o
+ .debug_str     0x0000000000000000     0xbb08 _build/nrf52840_xxaa/oberon_backend_ecc.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/oberon_backend_ecc.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/oberon_backend_ecc.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
@@ -14351,8 +14351,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
  .debug_line    0x0000000000000000       0xcc _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
- .debug_str     0x0000000000000000     0xbb37 _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
+ .debug_str     0x0000000000000000     0xbb09 _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/oberon_backend_ecdh.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
@@ -14370,8 +14370,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
  .debug_line    0x0000000000000000       0xcd _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
- .debug_str     0x0000000000000000     0xbb38 _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
+ .debug_str     0x0000000000000000     0xbb0a _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/oberon_backend_ecdsa.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
@@ -14389,8 +14389,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000     0x1f95 _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
  .debug_macro   0x0000000000000000      0x16d _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
  .debug_line    0x0000000000000000       0xcd _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
- .debug_str     0x0000000000000000     0xbb38 _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
- .comment       0x0000000000000000       0x80 _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
+ .debug_str     0x0000000000000000     0xbb0a _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
+ .comment       0x0000000000000000       0x7f _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
  .ARM.attributes
                 0x0000000000000000       0x39 _build/nrf52840_xxaa/oberon_backend_eddsa.c.o
  .group         0x0000000000000000        0xc _build/nrf52840_xxaa/oberon_backend_hash.c.o
@@ -18942,161 +18942,161 @@ OUTPUT(_build/nrf52840_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x0000000000001c40       0x78 _build/nrf52840_xxaa/ble_hrs.c.o
 
-.debug_str      0x0000000000000000    0xc4795
- .debug_str     0x0000000000000000       0xbd _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
- .debug_str     0x00000000000000bd    0x8a94b _build/nrf52840_xxaa/bsp.c.o
+.debug_str      0x0000000000000000    0xc4721
+ .debug_str     0x0000000000000000       0x90 _build/nrf52840_xxaa/gcc_startup_nrf52840.S.o
+ .debug_str     0x0000000000000090    0x8a904 _build/nrf52840_xxaa/bsp.c.o
                                       0x8ce1d (size before relaxing)
- .debug_str     0x000000000008aa08     0x6e7e _build/nrf52840_xxaa/bsp_btn_ble.c.o
+ .debug_str     0x000000000008a994     0x6e7e _build/nrf52840_xxaa/bsp_btn_ble.c.o
                                       0x92ea3 (size before relaxing)
- .debug_str     0x0000000000091886     0x169d _build/nrf52840_xxaa/app_button.c.o
+ .debug_str     0x0000000000091812     0x169d _build/nrf52840_xxaa/app_button.c.o
                                       0x8c16d (size before relaxing)
- .debug_str     0x0000000000092f23      0x116 _build/nrf52840_xxaa/app_error.c.o
+ .debug_str     0x0000000000092eaf      0x116 _build/nrf52840_xxaa/app_error.c.o
                                       0x7262f (size before relaxing)
- .debug_str     0x0000000000093039     0x4586 _build/nrf52840_xxaa/app_error_weak.c.o
+ .debug_str     0x0000000000092fc5     0x4586 _build/nrf52840_xxaa/app_error_weak.c.o
                                       0x8829a (size before relaxing)
- .debug_str     0x00000000000975bf      0xbf7 _build/nrf52840_xxaa/app_timer.c.o
+ .debug_str     0x000000000009754b      0xbf7 _build/nrf52840_xxaa/app_timer.c.o
                                       0x8bb48 (size before relaxing)
- .debug_str     0x00000000000981b6      0x24e _build/nrf52840_xxaa/app_util_platform.c.o
+ .debug_str     0x0000000000098142      0x24e _build/nrf52840_xxaa/app_util_platform.c.o
                                       0x73b88 (size before relaxing)
- .debug_str     0x0000000000098404     0x1b25 _build/nrf52840_xxaa/fds.c.o
+ .debug_str     0x0000000000098390     0x1b25 _build/nrf52840_xxaa/fds.c.o
                                       0x8614e (size before relaxing)
- .debug_str     0x0000000000099f29     0x1051 _build/nrf52840_xxaa/mem_manager.c.o
+ .debug_str     0x0000000000099eb5     0x1051 _build/nrf52840_xxaa/mem_manager.c.o
                                       0x8591e (size before relaxing)
- .debug_str     0x000000000009af7a      0x158 _build/nrf52840_xxaa/nrf_atfifo.c.o
+ .debug_str     0x000000000009af06      0x158 _build/nrf52840_xxaa/nrf_atfifo.c.o
                                       0x84f71 (size before relaxing)
- .debug_str     0x000000000009b0d2      0x3c4 _build/nrf52840_xxaa/nrf_atflags.c.o
+ .debug_str     0x000000000009b05e      0x3c4 _build/nrf52840_xxaa/nrf_atflags.c.o
                                       0x8234a (size before relaxing)
- .debug_str     0x000000000009b496      0x660 _build/nrf52840_xxaa/nrf_atomic.c.o
+ .debug_str     0x000000000009b422      0x660 _build/nrf52840_xxaa/nrf_atomic.c.o
                                       0x826a5 (size before relaxing)
- .debug_str     0x000000000009baf6      0x1bb _build/nrf52840_xxaa/nrf_balloc.c.o
+ .debug_str     0x000000000009ba82      0x1bb _build/nrf52840_xxaa/nrf_balloc.c.o
                                       0x8725a (size before relaxing)
- .debug_str     0x000000000009bcb1      0x301 _build/nrf52840_xxaa/nrf_fprintf.c.o
+ .debug_str     0x000000000009bc3d      0x301 _build/nrf52840_xxaa/nrf_fprintf.c.o
                                       0x822fe (size before relaxing)
- .debug_str     0x000000000009bfb2      0x12b _build/nrf52840_xxaa/nrf_fprintf_format.c.o
+ .debug_str     0x000000000009bf3e      0x12b _build/nrf52840_xxaa/nrf_fprintf_format.c.o
                                       0x823f3 (size before relaxing)
- .debug_str     0x000000000009c0dd      0x1e6 _build/nrf52840_xxaa/nrf_fstorage.c.o
+ .debug_str     0x000000000009c069      0x1e6 _build/nrf52840_xxaa/nrf_fstorage.c.o
                                       0x84d6d (size before relaxing)
- .debug_str     0x000000000009c2c3     0x10f1 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
+ .debug_str     0x000000000009c24f     0x10f1 _build/nrf52840_xxaa/nrf_fstorage_sd.c.o
                                       0x85f73 (size before relaxing)
- .debug_str     0x000000000009d3b4      0x218 _build/nrf52840_xxaa/nrf_memobj.c.o
+ .debug_str     0x000000000009d340      0x218 _build/nrf52840_xxaa/nrf_memobj.c.o
                                       0x85618 (size before relaxing)
- .debug_str     0x000000000009d5cc      0xe04 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
+ .debug_str     0x000000000009d558      0xe04 _build/nrf52840_xxaa/nrf_pwr_mgmt.c.o
                                       0x90494 (size before relaxing)
- .debug_str     0x000000000009e3d0     0x1692 _build/nrf52840_xxaa/nrf_queue.c.o
+ .debug_str     0x000000000009e35c     0x1692 _build/nrf52840_xxaa/nrf_queue.c.o
                                       0x87ae7 (size before relaxing)
- .debug_str     0x000000000009fa62      0x295 _build/nrf52840_xxaa/nrf_ringbuf.c.o
+ .debug_str     0x000000000009f9ee      0x295 _build/nrf52840_xxaa/nrf_ringbuf.c.o
                                       0x83d17 (size before relaxing)
- .debug_str     0x000000000009fcf7       0x54 _build/nrf52840_xxaa/nrf_section_iter.c.o
+ .debug_str     0x000000000009fc83       0x54 _build/nrf52840_xxaa/nrf_section_iter.c.o
                                       0x824cd (size before relaxing)
- .debug_str     0x000000000009fd4b       0xed _build/nrf52840_xxaa/nrf_strerror.c.o
+ .debug_str     0x000000000009fcd7       0xed _build/nrf52840_xxaa/nrf_strerror.c.o
                                       0x8206a (size before relaxing)
- .debug_str     0x000000000009fe38       0xeb _build/nrf52840_xxaa/sensorsim.c.o
+ .debug_str     0x000000000009fdc4       0xeb _build/nrf52840_xxaa/sensorsim.c.o
                                        0x3e2a (size before relaxing)
- .debug_str     0x000000000009ff23      0xa22 _build/nrf52840_xxaa/nrf_drv_clock.c.o
+ .debug_str     0x000000000009feaf      0xa22 _build/nrf52840_xxaa/nrf_drv_clock.c.o
                                       0x8f185 (size before relaxing)
- .debug_str     0x00000000000a0945      0x492 _build/nrf52840_xxaa/nrf_drv_rng.c.o
+ .debug_str     0x00000000000a08d1      0x492 _build/nrf52840_xxaa/nrf_drv_rng.c.o
                                       0x8f815 (size before relaxing)
- .debug_str     0x00000000000a0dd7     0x131d _build/nrf52840_xxaa/nrf_drv_uart.c.o
+ .debug_str     0x00000000000a0d63     0x131d _build/nrf52840_xxaa/nrf_drv_uart.c.o
                                       0x8b9cf (size before relaxing)
- .debug_str     0x00000000000a20f4      0x76e _build/nrf52840_xxaa/nrfx_clock.c.o
+ .debug_str     0x00000000000a2080      0x76e _build/nrf52840_xxaa/nrfx_clock.c.o
                                       0x8e50b (size before relaxing)
- .debug_str     0x00000000000a2862      0xed6 _build/nrf52840_xxaa/nrfx_gpiote.c.o
+ .debug_str     0x00000000000a27ee      0xed6 _build/nrf52840_xxaa/nrfx_gpiote.c.o
                                       0x8f78b (size before relaxing)
- .debug_str     0x00000000000a3738      0x32f _build/nrf52840_xxaa/nrfx_prs.c.o
+ .debug_str     0x00000000000a36c4      0x32f _build/nrf52840_xxaa/nrfx_prs.c.o
                                       0x8dbef (size before relaxing)
- .debug_str     0x00000000000a3a67      0x23a _build/nrf52840_xxaa/nrfx_rng.c.o
+ .debug_str     0x00000000000a39f3      0x23a _build/nrf52840_xxaa/nrfx_rng.c.o
                                       0x8de9d (size before relaxing)
- .debug_str     0x00000000000a3ca1      0x705 _build/nrf52840_xxaa/nrfx_uart.c.o
+ .debug_str     0x00000000000a3c2d      0x705 _build/nrf52840_xxaa/nrfx_uart.c.o
                                       0x8ede0 (size before relaxing)
- .debug_str     0x00000000000a43a6      0x922 _build/nrf52840_xxaa/nrfx_uarte.c.o
+ .debug_str     0x00000000000a4332      0x922 _build/nrf52840_xxaa/nrfx_uarte.c.o
                                       0x8f1de (size before relaxing)
- .debug_str     0x00000000000a4cc8       0xf7 _build/nrf52840_xxaa/boards.c.o
+ .debug_str     0x00000000000a4c54       0xf7 _build/nrf52840_xxaa/boards.c.o
                                       0x8bd61 (size before relaxing)
- .debug_str     0x00000000000a4dbf      0x1eb _build/nrf52840_xxaa/system_nrf52840.c.o
+ .debug_str     0x00000000000a4d4b      0x1eb _build/nrf52840_xxaa/system_nrf52840.c.o
                                       0x6e187 (size before relaxing)
- .debug_str     0x00000000000a4faa      0x1c0 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
+ .debug_str     0x00000000000a4f36      0x1c0 _build/nrf52840_xxaa/nrf_log_backend_serial.c.o
                                       0x874a1 (size before relaxing)
- .debug_str     0x00000000000a516a      0x1af _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
+ .debug_str     0x00000000000a50f6      0x1af _build/nrf52840_xxaa/nrf_log_backend_uart.c.o
                                       0x8f194 (size before relaxing)
- .debug_str     0x00000000000a5319      0x11c _build/nrf52840_xxaa/nrf_log_default_backends.c.o
+ .debug_str     0x00000000000a52a5      0x11c _build/nrf52840_xxaa/nrf_log_default_backends.c.o
                                       0x87258 (size before relaxing)
- .debug_str     0x00000000000a5435      0x857 _build/nrf52840_xxaa/nrf_log_frontend.c.o
+ .debug_str     0x00000000000a53c1      0x857 _build/nrf52840_xxaa/nrf_log_frontend.c.o
                                       0x8870f (size before relaxing)
- .debug_str     0x00000000000a5c8c      0x65d _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
+ .debug_str     0x00000000000a5c18      0x65d _build/nrf52840_xxaa/nrf_log_str_formatter.c.o
                                       0x8799e (size before relaxing)
- .debug_str     0x00000000000a62e9     0xa1b7 _build/nrf52840_xxaa/nrf_crypto_ecc.c.o
+ .debug_str     0x00000000000a6275     0xa1b7 _build/nrf52840_xxaa/nrf_crypto_ecc.c.o
                                       0x8c1e7 (size before relaxing)
- .debug_str     0x00000000000b04a0     0x357f _build/nrf52840_xxaa/nrf_crypto_ecdh.c.o
+ .debug_str     0x00000000000b042c     0x357f _build/nrf52840_xxaa/nrf_crypto_ecdh.c.o
                                       0x8e2d3 (size before relaxing)
- .debug_str     0x00000000000b3a1f      0x28d _build/nrf52840_xxaa/nrf_crypto_init.c.o
+ .debug_str     0x00000000000b39ab      0x28d _build/nrf52840_xxaa/nrf_crypto_init.c.o
                                       0x82615 (size before relaxing)
- .debug_str     0x00000000000b3cac      0x5cf _build/nrf52840_xxaa/nrf_crypto_rng.c.o
+ .debug_str     0x00000000000b3c38      0x5cf _build/nrf52840_xxaa/nrf_crypto_rng.c.o
                                       0x87b4a (size before relaxing)
- .debug_str     0x00000000000b427b     0x4bde _build/nrf52840_xxaa/main.c.o
+ .debug_str     0x00000000000b4207     0x4bde _build/nrf52840_xxaa/main.c.o
                                       0x9d6d5 (size before relaxing)
- .debug_str     0x00000000000b8e59      0x461 _build/nrf52840_xxaa/nrf_sdh.c.o
+ .debug_str     0x00000000000b8de5      0x461 _build/nrf52840_xxaa/nrf_sdh.c.o
                                       0x87cce (size before relaxing)
- .debug_str     0x00000000000b92ba      0x735 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
+ .debug_str     0x00000000000b9246      0x735 _build/nrf52840_xxaa/nrf_sdh_ble.c.o
                                       0x8ca5f (size before relaxing)
- .debug_str     0x00000000000b99ef      0x184 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
+ .debug_str     0x00000000000b997b      0x184 _build/nrf52840_xxaa/nrf_sdh_soc.c.o
                                       0x86cd5 (size before relaxing)
- .debug_str     0x00000000000b9b73      0x43f _build/nrf52840_xxaa/auth_status_tracker.c.o
+ .debug_str     0x00000000000b9aff      0x43f _build/nrf52840_xxaa/auth_status_tracker.c.o
                                       0x8c16b (size before relaxing)
- .debug_str     0x00000000000b9fb2      0x48f _build/nrf52840_xxaa/ble_advdata.c.o
+ .debug_str     0x00000000000b9f3e      0x48f _build/nrf52840_xxaa/ble_advdata.c.o
                                       0x89538 (size before relaxing)
- .debug_str     0x00000000000ba441      0x30b _build/nrf52840_xxaa/ble_advertising.c.o
+ .debug_str     0x00000000000ba3cd      0x30b _build/nrf52840_xxaa/ble_advertising.c.o
                                       0x8d419 (size before relaxing)
- .debug_str     0x00000000000ba74c      0x305 _build/nrf52840_xxaa/ble_conn_params.c.o
+ .debug_str     0x00000000000ba6d8      0x305 _build/nrf52840_xxaa/ble_conn_params.c.o
                                       0x8b909 (size before relaxing)
- .debug_str     0x00000000000baa51      0x815 _build/nrf52840_xxaa/ble_conn_state.c.o
+ .debug_str     0x00000000000ba9dd      0x815 _build/nrf52840_xxaa/ble_conn_state.c.o
                                       0x8b189 (size before relaxing)
- .debug_str     0x00000000000bb266      0x51a _build/nrf52840_xxaa/ble_srv_common.c.o
+ .debug_str     0x00000000000bb1f2      0x51a _build/nrf52840_xxaa/ble_srv_common.c.o
                                       0x80a91 (size before relaxing)
- .debug_str     0x00000000000bb780      0xa9b _build/nrf52840_xxaa/gatt_cache_manager.c.o
+ .debug_str     0x00000000000bb70c      0xa9b _build/nrf52840_xxaa/gatt_cache_manager.c.o
                                       0x8f9bb (size before relaxing)
- .debug_str     0x00000000000bc21b      0x2f9 _build/nrf52840_xxaa/gatts_cache_manager.c.o
+ .debug_str     0x00000000000bc1a7      0x2f9 _build/nrf52840_xxaa/gatts_cache_manager.c.o
                                       0x8e19f (size before relaxing)
- .debug_str     0x00000000000bc514      0x644 _build/nrf52840_xxaa/id_manager.c.o
+ .debug_str     0x00000000000bc4a0      0x644 _build/nrf52840_xxaa/id_manager.c.o
                                       0x8fdad (size before relaxing)
- .debug_str     0x00000000000bcb58      0x367 _build/nrf52840_xxaa/nrf_ble_gatt.c.o
+ .debug_str     0x00000000000bcae4      0x367 _build/nrf52840_xxaa/nrf_ble_gatt.c.o
                                       0x8be3c (size before relaxing)
- .debug_str     0x00000000000bcebf     0x36bd _build/nrf52840_xxaa/nrf_ble_lesc.c.o
+ .debug_str     0x00000000000bce4b     0x36bd _build/nrf52840_xxaa/nrf_ble_lesc.c.o
                                       0x9b603 (size before relaxing)
- .debug_str     0x00000000000c057c      0x209 _build/nrf52840_xxaa/nrf_ble_qwr.c.o
+ .debug_str     0x00000000000c0508      0x209 _build/nrf52840_xxaa/nrf_ble_qwr.c.o
                                       0x8a063 (size before relaxing)
- .debug_str     0x00000000000c0785      0x49c _build/nrf52840_xxaa/peer_data_storage.c.o
+ .debug_str     0x00000000000c0711      0x49c _build/nrf52840_xxaa/peer_data_storage.c.o
                                       0x8e49b (size before relaxing)
- .debug_str     0x00000000000c0c21      0x5d9 _build/nrf52840_xxaa/peer_database.c.o
+ .debug_str     0x00000000000c0bad      0x5d9 _build/nrf52840_xxaa/peer_database.c.o
                                       0x8e4cf (size before relaxing)
- .debug_str     0x00000000000c11fa       0xac _build/nrf52840_xxaa/peer_id.c.o
+ .debug_str     0x00000000000c1186       0xac _build/nrf52840_xxaa/peer_id.c.o
                                       0x891ab (size before relaxing)
- .debug_str     0x00000000000c12a6      0x732 _build/nrf52840_xxaa/peer_manager.c.o
+ .debug_str     0x00000000000c1232      0x732 _build/nrf52840_xxaa/peer_manager.c.o
                                       0x8fda3 (size before relaxing)
- .debug_str     0x00000000000c19d8      0x273 _build/nrf52840_xxaa/peer_manager_handler.c.o
+ .debug_str     0x00000000000c1964      0x273 _build/nrf52840_xxaa/peer_manager_handler.c.o
                                       0x8f3fa (size before relaxing)
- .debug_str     0x00000000000c1c4b      0x107 _build/nrf52840_xxaa/pm_buffer.c.o
+ .debug_str     0x00000000000c1bd7      0x107 _build/nrf52840_xxaa/pm_buffer.c.o
                                       0x82428 (size before relaxing)
- .debug_str     0x00000000000c1d52      0x4ab _build/nrf52840_xxaa/security_dispatcher.c.o
+ .debug_str     0x00000000000c1cde      0x4ab _build/nrf52840_xxaa/security_dispatcher.c.o
                                       0x8fc63 (size before relaxing)
- .debug_str     0x00000000000c21fd      0x318 _build/nrf52840_xxaa/security_manager.c.o
+ .debug_str     0x00000000000c2189      0x318 _build/nrf52840_xxaa/security_manager.c.o
                                       0x8f0b8 (size before relaxing)
- .debug_str     0x00000000000c2515     0x18fb _build/nrf52840_xxaa/cc310_backend_ecc.c.o
+ .debug_str     0x00000000000c24a1     0x18fb _build/nrf52840_xxaa/cc310_backend_ecc.c.o
                                       0x8e0de (size before relaxing)
- .debug_str     0x00000000000c3e10       0x99 _build/nrf52840_xxaa/cc310_backend_ecdh.c.o
+ .debug_str     0x00000000000c3d9c       0x99 _build/nrf52840_xxaa/cc310_backend_ecdh.c.o
                                       0x8d5f7 (size before relaxing)
- .debug_str     0x00000000000c3ea9      0x135 _build/nrf52840_xxaa/cc310_backend_init.c.o
+ .debug_str     0x00000000000c3e35      0x135 _build/nrf52840_xxaa/cc310_backend_init.c.o
                                       0x84f9e (size before relaxing)
- .debug_str     0x00000000000c3fde       0x52 _build/nrf52840_xxaa/cc310_backend_mutex.c.o
+ .debug_str     0x00000000000c3f6a       0x52 _build/nrf52840_xxaa/cc310_backend_mutex.c.o
                                       0x82ebe (size before relaxing)
- .debug_str     0x00000000000c4030       0xdc _build/nrf52840_xxaa/cc310_backend_rng.c.o
+ .debug_str     0x00000000000c3fbc       0xdc _build/nrf52840_xxaa/cc310_backend_rng.c.o
                                       0x88006 (size before relaxing)
- .debug_str     0x00000000000c410c       0x7c _build/nrf52840_xxaa/cc310_backend_shared.c.o
+ .debug_str     0x00000000000c4098       0x7c _build/nrf52840_xxaa/cc310_backend_shared.c.o
                                       0x85b82 (size before relaxing)
- .debug_str     0x00000000000c4188      0x212 _build/nrf52840_xxaa/ble_bas.c.o
+ .debug_str     0x00000000000c4114      0x212 _build/nrf52840_xxaa/ble_bas.c.o
                                       0x8ceac (size before relaxing)
- .debug_str     0x00000000000c439a      0x166 _build/nrf52840_xxaa/ble_dis.c.o
+ .debug_str     0x00000000000c4326      0x166 _build/nrf52840_xxaa/ble_dis.c.o
                                       0x89813 (size before relaxing)
- .debug_str     0x00000000000c4500      0x295 _build/nrf52840_xxaa/ble_hrs.c.o
+ .debug_str     0x00000000000c448c      0x295 _build/nrf52840_xxaa/ble_hrs.c.o
                                       0x8ae1c (size before relaxing)
 
 .debug_loc      0x0000000000000000    0x2f468
