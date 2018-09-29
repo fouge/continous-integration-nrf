@@ -1,6 +1,6 @@
 FROM gcc:7.2
 
-ENV REFRESHED_AT 2018-06-15
+ENV REFRESHED_AT 2018-09-29
 ENV DOCKER_RUN 1
 
 # Set up a tools dev directory
