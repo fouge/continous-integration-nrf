@@ -36,7 +36,3 @@ RUN nrfutil version
 
 # Set cross compiler path variable to find compiler using Makefiles
 ENV CROSS_COMPILE /home/dev/gcc-arm-none-eabi-7-2017-q4-major
-
-# Copy all the files of the project at the end to
-# use Docker caching
-COPY . /home/project/
