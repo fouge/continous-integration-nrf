@@ -1,0 +1,6 @@
+[submodule "pc-nrfutil"]
+	path = pc-nrfutil
+	url = https://github.com/NordicSemiconductor/pc-nrfutil.git
+[submodule "util/pc-nrfutil"]
+	path = util/pc-nrfutil
+	url = https://github.com/NordicSemiconductor/pc-nrfutil.git
